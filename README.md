@@ -1,4 +1,4 @@
-# K Nearest Nneighbor algorithm implementation
+# K Nearest Neighbor algorithm implementation
 
 ![alt text](https://github.com/Crazz-Zaac/k-nearest-neighbor-algorithm/blob/master/KNN%20Diagram.png)
 
