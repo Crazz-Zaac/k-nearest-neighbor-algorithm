@@ -1,5 +1,6 @@
 # K Nearest Nneighbor algorithm implementation
 
+![alt text](https://github.com/Crazz-Zaac/k-nearest-neighbor-algorithm/blob/master/KNN%20Diagram.png)
 
 ## Getting ready
 First setup virtual environment, activate it install the essentials.
